@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(del \"c:\\\\Users\\\\konan\\\\OneDrive - Ynov\\\\TP_SCOLAIRES\\\\MACHINE_LEARNING\\\\TP_Morpion_TP1\\\\agent_trained.pkl\")",
+      "Bash(pip install:*)",
+      "Bash(markdown-pdf:*)",
+      "Bash(python -m markdown_pdf:*)",
+      "Bash(python md2pdf.py:*)",
+      "Bash(python:*)"
+    ]
+  }
+}
