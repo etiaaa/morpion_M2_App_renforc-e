@@ -6,7 +6,12 @@
       "Bash(markdown-pdf:*)",
       "Bash(python -m markdown_pdf:*)",
       "Bash(python md2pdf.py:*)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(git credential-manager:*)",
+      "Bash(cmdkey /list:*)",
+      "Bash(findstr:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(git push:*)"
     ]
   }
 }
